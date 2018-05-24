@@ -3,13 +3,8 @@
 
 <!--more-->
 
-[Meting autoplay="true" order="random" theme="red"]
-[Music server="netease" id="483665320" type="playlist"/]
-[/Meting]
-
 
 ----------
-
 
 <font color=#808080 size=7 face="黑体"></font>
 
@@ -142,8 +137,8 @@
 
 
 
-<span id = "1"><font color=#000000 size=6 face="黑体">1.开学前 </font></span>
-不知学弟学妹们现在是否已经填报了武昌工学院？亦或是已经被武昌工学院录取？没关系，无论现在的你从哪里找到了这篇文章，都很欢迎你能够来了解一下我们武昌工学院。下面将详细为大家解答一下开学前你可能会遇到的各个问题。
+<span id = "1"><font color=#000000 size=6 face="黑体">1.开学前 </font></span>    
+不知学弟学妹们现在是否已经填报了武昌工学院？亦或是已经被武昌工学院录取？没关系，无论现在的你从哪里找到了这篇文章，都很欢迎你能够来了解一下我们武昌工学院。下面将详细为大家解答一下开学前你可能会遇到的各个问题。    
 <span id = "1.1"><font color=#000000 size=5 face="黑体">1.1录取通知书以及相关 </font></span>
 
 
